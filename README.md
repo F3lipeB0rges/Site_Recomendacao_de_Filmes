@@ -2,7 +2,9 @@
 
 DCC704 – ARQUITETURA E TECNOLOGIA DE SISTEMAS WEB
 
-Trabalho Final – Sistema de Recomendação de Filmes - 
+Trabalho Final – Sistema de Recomendação de Filmes
+
+Aluno: Felipe Rubens de Sousa Borges
 
 ### Descrição do Trabalho
 Os alunos deverão desenvolver um sistema de recomendação de filmes com uma arquitetura web completa, utilizando React no front-end, Node.js no back-end e MongoDB para o armazenamento dos dados. O sistema deve incluir tanto recomendações baseadas em filtro colaborativo, filtro baseado em conteúdo, ou híbrido, quanto recomendações descritivas, similares às encontradas em plataformas de streaming.
